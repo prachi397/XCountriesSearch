@@ -3,3 +3,8 @@
     flex-wrap: wrap;
     gap: 10px;
 }
+.country-container input{
+    padding: 7px;
+    margin: 10px;
+    width: 50%;
+}

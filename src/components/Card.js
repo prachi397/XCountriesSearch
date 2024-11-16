@@ -3,7 +3,7 @@ import './card.css';
 
 const Card = ({name,flag,altText}) =>{
     return(
-        <div className="country-card">
+        <div className="countryCard">
             <img src={flag} alt={altText}/>
             <h2>{name}</h2>
         </div>
